@@ -1,10 +1,12 @@
 sac-civic-hack-2016
 -------------------
 
+Python-based [Jupyter notebook](http://jupyter.org/) for visualizing Sacramento's _Promise Zone_ data.  Maps are generated with [Folium](https://github.com/python-visualization/folium), a Python wrapper for [Leaflet](http://leafletjs.com/).  Map data comes from Code4Sac's [ndoch-2016](https://github.com/code4sac/ndoch-2016).
+
 Setup
 =====
 
-**Note:** These steps are geared towards a Mac.  There are _probably_ similar Windows step...I dunno.
+These steps are geared towards a Mac.  There are _probably_ similar Windows step...I dunno.
 
 1. Install Python 3 (if you don't already have it).
 
